@@ -1,2 +1,2 @@
-# bater-a
+# bateria
 bateria de sonidos
